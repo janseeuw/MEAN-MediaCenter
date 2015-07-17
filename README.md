@@ -12,8 +12,8 @@ Current implementation is limited.
 
 ### How do I start?
 
-    git clone https://github.com/wixon/chips.git
-    cd chips
+    git clone https://github.com/wixon/MEAN-MediaCenter.git
+    cd MEAN-MediaCenter
     npm install
     node server
 
